@@ -10,4 +10,4 @@ puts "----------"
 
 @store1.update(name: 'Topshop')
 
-puts @store1
+
